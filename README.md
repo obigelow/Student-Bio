@@ -1,4 +1,3 @@
-# student-bio
 # Student-Bio
 
 ## Usage
